@@ -1,3 +1,9 @@
 function greet(){
     console.log("Hello world");
 }
+function mainFeature(){
+return "this is the main feature"
+}
+// Run main feature
+greet();
+console.log =(mainFeatue());
